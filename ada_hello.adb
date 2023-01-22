@@ -24,7 +24,6 @@ procedure Ada_Hello is
    Player_Y : Natural := 1;
 
    procedure Draw is
-      X : Positive_Count;
       O : Character;
    begin
       Set_Col (1);
